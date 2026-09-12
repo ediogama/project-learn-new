@@ -4,7 +4,7 @@
   "description": "Novo projeto para relembrar os conceitos e desenvolvimento de uma app.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
